@@ -1,0 +1,24 @@
+name, chain,color,resolution
+Sec3-FRB,A,blue,1
+Sec3_GFP_C,A,blue,1
+Sec3_GFP_N,A,blue,1
+Sec5_GFP_C,B,orange,1
+Sec5_GFP_N,B,orange,1
+Sec6-FRB,C,yellow,1
+Sec6_GFP_C,C,yellow,1
+Sec6_GFP_N,C,yellow,1
+Sec8-FRB,D,pink,1
+Sec8_GFP_C,D,pink,1
+Sec10-FRB,E,brown,1
+Sec10_GFP_C,E,brown,1
+Sec10_GFP_N,E,brown,1
+Sec15-FRB,F,purple,1
+Sec15_GFP_C,F,purple,1
+Sec15_GFP_N,F,purple,1
+Exo70-FRB,G,red,1
+Exo70_GFP_C,G,red,1
+Exo70_GFP_N,G,red,1
+Exo84-FRB,H,green,1
+Exo84_GFP_C,H,green,1
+Exo84_GFP_N,H,green,1
+Sec2_GFP_C,I,gray,10
